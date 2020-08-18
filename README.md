@@ -8,7 +8,7 @@
 - 🔭 I’m currently working in [Litige.fr](https://www.litige.fr/) as a Front-End Ruby on Rails Developer. 
 - 🌱 I’m currently learning Vue.js.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Based in **France** 🇫🇷
+- Based in **Paris** 🇫🇷
 - ⚡ Fun fact: I like fitness. A lot.
 
 - 📫 Let's get social: <a href="https://twitter.com/malekbenhalima"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmalekbenhalima" alt="Twitter"/></a> <a href="https://twitter.com/malekbenhalima"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmalekbenhalima" alt="Twitter"/></a>
