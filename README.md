@@ -6,7 +6,6 @@
 
 - 🤓  I am developer, designer who believes creative thinking, the power of code and design can solve most problems. I aspire to create things on the web that empower, enrich and delight people.
 - 🔭  I’m currently working in [Litige.fr](https://www.litige.fr/) as a Front-End Ruby on Rails Developer. 
-- 🌱  I’m currently learning Vue.js.
 - 🏆  I'm an avid improver. Continuously learning how to make the world better.
 - Based in **Paris** 🇫🇷
 - ⚡  Fun fact: I like fitness. A lot.
