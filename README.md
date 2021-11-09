@@ -10,7 +10,7 @@
 - Based in **Paris** 🇫🇷
 - ⚡  Fun fact: I like fitness. A lot.
 
-- 📫 Let's get social: <a href="https://twitter.com/malekbenhalima"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmalekbenhalima" alt="Twitter"/></a> <a href="https://twitter.com/malekbenhalima"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmalekbenhalima" alt="Twitter"/></a>
+- 📫 Let's get social: <a href="https://twitter.com/malekbenhalima"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmalekbenhalima" alt="Twitter"/></a>
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=malekkbenhalima&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/malekkbenhalima/github-readme-stats)
