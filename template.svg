@@ -234,7 +234,7 @@
 
   <!-- Work info -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm a Frontend Developer with over 8 years of experience.</text>
     <text x="15" y="50">Currently working at <a xlink:href="https://demanderjustice.com">Demander Justice</a>.</text>
   </g>
@@ -258,7 +258,7 @@
 
   <!-- Portfolio -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="473" height="42" rx="18.0355" class="bubble" />
+    <rect width="310" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Check out my work at <a xlink:href="https://malek.work">malek.work</a></text>
   </g>
 
@@ -281,7 +281,7 @@
 
   <!-- Social links -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="450" height="42" rx="18.0355" class="bubble" />
+    <rect width="310" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       Find me on
       <a xlink:href="https://linkedin.com/in/malekbenhalima">LinkedIn</a> and
