@@ -1,0 +1,23 @@
+{
+  "name": "readme-messages",
+  "version": "0.0.0",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "2.3.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.22.1",
+    "dotenv": "^16.4.5",
+    "got": "^11.8.5",
+    "js-quantities": "^1.7.6"
+  },
+  "description": "[![](https://raw.githubusercontent.com/malekbenhalima/malekbenhalima/main/chat.svg)](https://twitter.com/malekbenhalima)",
+  "main": "build-svg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
