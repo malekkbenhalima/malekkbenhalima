@@ -211,8 +211,8 @@
   <!-- From Paris... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="418" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Paris, France – it's supposed to be 69° F</text>
-    <text x="15" y="50">(21° C) and <tspan class="emoji">☁️</tspan> here today.</text>
+    <text x="15" y="27">I live in Paris, France – it's supposed to be 70° F</text>
+    <text x="15" y="50">(21° C) and <tspan class="emoji">🌧</tspan> here today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -307,7 +307,7 @@
 
   <!-- Have a great day -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="235" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>
+    <rect width="260" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Have a great Wednesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
